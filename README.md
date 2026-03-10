@@ -9,7 +9,7 @@ The objective of this project is to design and implement a Knowledge-Based Syste
 
 | Name | Student ID | Primary Project Role  |
 | :--- | :--- | :--- |
-| *Frederick Kwaku Kankam* |  | Project Manager  |
+| *Frederick Kwaku Kankam* | 22015587 | Project Manager  |
 | *Victor Barnieh* | 22134010 | Knowledge/Expert Engineer |
 | *Effah Gilbert* | 22241265 | Knowledge/Expert Engineer  |
 | *Moses Ampadu Danso* | 22043205 | Programmer/Developer |
