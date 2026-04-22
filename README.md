@@ -13,15 +13,15 @@ The objective of this project is to design and implement a Knowledge-Based Syste
 
 ## Group Members & Roles
 
-| Name | Student ID | Primary Project Role |
-| :--- | :--- | :--- |
-| *Frederick Kwaku Kankam* | 22015587 | Project Manager |
-| *Victor Barnieh* | 22134010 | Knowledge/Expert Engineer |
-| *Effah Gilbert* | 22241265 | Knowledge/Expert Engineer |
-| *Moses Ampadu Danso* | 22043205 | Programmer/Developer |
-| *Richmond Nyamedor* | 22173542 | Programmer/Developer |
-| *Justice Osei Sarfo* | 22223502 | Programmer/Developer |
-| *Stella Oforiwaa Bonsu* | 22232107 | Programmer/Developer |
+| Name | Student ID | Primary Project Role | Username |
+| :--- | :--- | :--- | :--- |
+| *Frederick Kwaku Kankam* | 22015587 | Project Manager | N/A |
+| *Victor Barnieh* | 22134010 | Knowledge/Expert Engineer | N/A
+| *Effah Gilbert* | 22241265 | Knowledge/Expert Engineer | Kobby24
+| *Moses Ampadu Danso* | 22043205 | Programmer/Developer | N/A |
+| *Richmond Nyamedor* | 22173542 | Programmer/Developer | N/A |
+| *Justice Osei Sarfo* | 22223502 | Programmer/Developer | N/A |
+| *Stella Oforiwaa Bonsu* | 22232107 | Programmer/Developer | N/A |
 
 ---
 
